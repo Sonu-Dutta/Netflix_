@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.get_started_font {
+  font-size: 1.1rem !important;
+  text-transform: capitalize !important;
+}
+
+.home-title {
+  width: 90vw;
+  font-size: 2.6rem;
+  font-weight: 800;
+}
+
+.third-para,
+.para {
+  font-size: 1.3rem;
+}
+
+.para {
+  position: relative;
+  top: 1rem;
+}
+
+.main-home {
+  position: relative;
+  top: 20vh !important;
+}
+
+.ph-email {
+  background-color: rgba(0, 0, 0, 0.499);
+  border: 1px solid #7d7878 !important;
+  border-radius: 5px;
+  width: 30vw !important;
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding-left: 1.5rem !important;
+  margin-right: 5px !important;
+
+}
+
+.gs-btn {
+  border-radius: 5px;
+  width: 12rem !important;
+}
+
+.gs-btn,
+.ph-email {
+  height: 3rem !important;
+}
+
+.blue-color {
+  color: rgb(36, 149, 205);
+}
+
+.optform-css {
+  /* transform: scale(.8); */
+  display: flex;
+}
+
+.eng {
+  background-color: rgba(0, 0, 0, 0.223) !important;
+  border: 1px solid #7d7878 !important;
+}
+
+.heading {
+  display: flex;
+  gap: 1.2rem;
+}
+
+.accord {
+  width: 100vw;
+}
+
+.box1 {
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signinp {
+  border: 1px solid #7d7878 !important;
+  background-color: rgba(55, 52, 52, 0.332) !important;
+}
+
+.sb {
+  position: relative;
+  bottom: 2rem;
+}
